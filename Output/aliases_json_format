@@ -1,0 +1,1987 @@
+{
+    "actions": [
+        {
+            "add": {
+                "alias": "NTB_ES_EXP",
+                "indices": [
+                    "ntb_ksi_b_idx",
+                    "ntb_im_d_idx",
+                    "ntb_im_t_idx",
+                    "ntb_tm_w_idx",
+                    "ntb_tm_tm_idx",
+                    "ntb_ksi_ab_idx",
+                    "ntb_im_i_idx",
+                    "ntb_im_o_idx",
+                    "ntb_ksi_g_idx",
+                    "ntb_ksi_q_idx",
+                    "ntb_ksi_kn_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "PLANTC_NOTICE",
+                "indices": [
+                    "plantc_gesi_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "TMC_NOTICE",
+                "indices": [
+                    "tmc_gesi_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "POSCO_NOTICE_IDX",
+                "indices": [
+                    "posco_notice_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "CHMTECH_NOTICE_IDX",
+                "indices": [
+                    "chmtech_board_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "CHMTECH_ES_EXP",
+                "indices": [
+                    "chmtech_ksi_b_idx",
+                    "chmtech_ksi_kn_idx",
+                    "chmtech_ksi_ab_idx",
+                    "chmtech_im_i_idx",
+                    "chmtech_ksi_q_idx",
+                    "chmtech_im_o_idx",
+                    "chmtech_ksi_g_idx",
+                    "chmtech_tm_tm_idx",
+                    "chmtech_tm_w_idx",
+                    "chmtech_im_t_idx",
+                    "chmtech_im_d_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "MTECH_ES_EXP",
+                "indices": [
+                    "mtech_im_d_idx",
+                    "mtech_im_t_idx",
+                    "mtech_ksi_q_idx",
+                    "mtech_tm_w_idx",
+                    "mtech_ksi_kn_idx",
+                    "mtech_ksi_ab_idx",
+                    "mtech_im_i_idx",
+                    "mtech_ksi_g_idx",
+                    "mtech_ksi_b_idx",
+                    "mtech_tm_tm_idx",
+                    "mtech_im_o_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "AST_NOTICE_IDX",
+                "indices": [
+                    "ast_board_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "UNIV_ES_EXP",
+                "indices": [
+                    "univ_im_o_idx",
+                    "univ_ksi_kn_idx",
+                    "univ_tm_w_idx",
+                    "univ_im_t_idx",
+                    "univ_im_d_idx",
+                    "univ_ksi_q_idx",
+                    "univ_ksi_b_idx",
+                    "univ_ksi_ab_idx",
+                    "univ_im_i_idx",
+                    "univ_tm_tm_idx",
+                    "univ_ksi_g_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "KSI_GROUP_BG",
+                "indices": [
+                    "pnr_ksi_g_idx",
+                    "chmtech_ksi_b_idx",
+                    "rist_ksi_b_idx",
+                    "ntb_ksi_b_idx",
+                    "vent_ksi_g_idx",
+                    "ict_ksi_b_idx",
+                    "posri_ksi_g_idx",
+                    "snnc_ksi_g_idx",
+                    "cnc_ksi_g_idx",
+                    "pnr_ksi_b_idx",
+                    "ef_ksi_b_idx",
+                    "anc_ksi_g_idx",
+                    "ict_ksi_g_idx",
+                    "ast_ksi_g_idx",
+                    "posco_ksi_g_idx",
+                    "dwinter_ksi_g_idx",
+                    "term_ksi_b_idx",
+                    "chmtech_ksi_g_idx",
+                    "plantc_ksi_g_idx",
+                    "ast_ksi_b_idx",
+                    "eng_ksi_b_idx",
+                    "univ_ksi_b_idx",
+                    "pns_ksi_g_idx",
+                    "ntb_ksi_g_idx",
+                    "anc_ksi_b_idx",
+                    "plantc_ksi_b_idx",
+                    "mtech_ksi_g_idx",
+                    "rist_ksi_g_idx",
+                    "term_ksi_g_idx",
+                    "posri_ksi_b_idx",
+                    "pns_ksi_b_idx",
+                    "himt_ksi_g_idx",
+                    "ef_ksi_g_idx",
+                    "univ_ksi_g_idx",
+                    "mtech_ksi_b_idx",
+                    "enc_ksi_b_idx",
+                    "dwinter_ksi_b_idx",
+                    "eng_ksi_g_idx",
+                    "himt_ksi_b_idx",
+                    "snnc_ksi_b_idx",
+                    "vent_ksi_b_idx",
+                    "tmc_ksi_b_idx",
+                    "enc_ksi_g_idx",
+                    "tmc_ksi_g_idx",
+                    "cnc_ksi_b_idx",
+                    "posco_ksi_b_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "KSI_Q",
+                "indices": [
+                    "posco_ksi_q_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "IMS_GROUP_T",
+                "indices": [
+                    "vent_im_t_idx",
+                    "anc_im_t_idx",
+                    "ast_im_t_idx",
+                    "dwinter_im_t_idx",
+                    "ict_im_t_idx",
+                    "ntb_im_t_idx",
+                    "mtech_im_t_idx",
+                    "univ_im_t_idx",
+                    "term_im_t_idx",
+                    "snnc_im_t_idx",
+                    "himt_im_t_idx",
+                    "ef_im_t_idx",
+                    "pns_im_t_idx",
+                    "eng_im_t_idx",
+                    "plantc_im_t_idx",
+                    "rist_im_t_idx",
+                    "enc_im_t_idx",
+                    "cnc_im_t_idx",
+                    "posri_im_t_idx",
+                    "tmc_im_t_idx",
+                    "chmtech_im_t_idx",
+                    "pnr_im_t_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "EL_DE",
+                "indices": [
+                    "posco_el_de_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "NTB_NOTICE_IDX",
+                "indices": [
+                    "ntb_board_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "ENC_ES_EXP",
+                "indices": [
+                    "enc_tm_tm_idx",
+                    "enc_ecm_idx",
+                    "enc_im_z_idx",
+                    "enc_tm_w_idx",
+                    "enc_im_o_idx",
+                    "enc_ksi_ab_idx",
+                    "enc_im_d_idx",
+                    "enc_ksi_q_idx",
+                    "enc_ksi_b_idx",
+                    "enc_im_t_idx",
+                    "enc_im_i_idx",
+                    "enc_ksi_kn_idx",
+                    "enc_ksi_g_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "EF_NOTICE_IDX",
+                "indices": [
+                    "ef_board_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "SPS_NOTICE_IDX",
+                "indices": [
+                    "sps_board_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "TMC_NOTICE_IDX",
+                "indices": [
+                    "tmc_board_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "PNS_ES_EXP",
+                "indices": [
+                    "pns_im_i_idx",
+                    "pns_ksi_kn_idx",
+                    "pns_ksi_q_idx",
+                    "pns_tm_tm_idx",
+                    "pns_im_o_idx",
+                    "pns_im_d_idx",
+                    "pns_im_t_idx",
+                    "pns_ksi_g_idx",
+                    "pns_ksi_ab_idx",
+                    "pns_ksi_b_idx",
+                    "pns_tm_w_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "ICT_PCM",
+                "indices": [
+                    "ict_pcm_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "KSI_GROUP_B",
+                "indices": [
+                    "chmtech_ksi_b_idx",
+                    "rist_ksi_b_idx",
+                    "ntb_ksi_b_idx",
+                    "ict_ksi_b_idx",
+                    "pnr_ksi_b_idx",
+                    "ef_ksi_b_idx",
+                    "term_ksi_b_idx",
+                    "ast_ksi_b_idx",
+                    "eng_ksi_b_idx",
+                    "univ_ksi_b_idx",
+                    "anc_ksi_b_idx",
+                    "plantc_ksi_b_idx",
+                    "posri_ksi_b_idx",
+                    "pns_ksi_b_idx",
+                    "mtech_ksi_b_idx",
+                    "enc_ksi_b_idx",
+                    "dwinter_ksi_b_idx",
+                    "himt_ksi_b_idx",
+                    "snnc_ksi_b_idx",
+                    "vent_ksi_b_idx",
+                    "tmc_ksi_b_idx",
+                    "cnc_ksi_b_idx",
+                    "posco_ksi_b_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "EL_MC",
+                "indices": [
+                    "posco_el_mc_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "ENC_NOTICE",
+                "indices": [
+                    "enc_gesi_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "KSI_AB",
+                "indices": [
+                    "posco_ksi_ab_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "POSCO_RECOMMEND_ALL",
+                "indices": [
+                    "mtech_im_d_idx",
+                    "posco_im_d_idx",
+                    "ict_tm_w_idx",
+                    "plantc_im_o_idx",
+                    "term_tm_tm_idx",
+                    "pns_ksi_kn_idx",
+                    "pns_ksi_q_idx",
+                    "univ_im_o_idx",
+                    "ast_im_o_idx",
+                    "dwinter_ksi_kn_idx",
+                    "rist_tm_w_idx",
+                    "univ_ksi_kn_idx",
+                    "anc_ksi_q_idx",
+                    "posri_ksi_ab_idx",
+                    "pnr_ksi_g_idx",
+                    "pnr_tm_w_idx",
+                    "vent_tm_tm_idx",
+                    "rist_ksi_ab_idx",
+                    "anc_tm_w_idx",
+                    "chmtech_ksi_b_idx",
+                    "posco_im_p_idx",
+                    "posco_tm_tm_idx",
+                    "ef_im_o_idx",
+                    "eng_ksi_q_idx",
+                    "posri_ksi_q_idx",
+                    "posco_notice_idx",
+                    "rist_ksi_b_idx",
+                    "cnc_ksi_kn_idx",
+                    "eng_im_o_idx",
+                    "enc_tm_tm_idx",
+                    "term_im_d_idx",
+                    "dwinter_tm_w_idx",
+                    "ntb_ksi_b_idx",
+                    "ast_tm_tm_idx",
+                    "pns_tm_tm_idx",
+                    "vent_ksi_g_idx",
+                    "ict_ksi_b_idx",
+                    "posri_ksi_g_idx",
+                    "chmtech_ksi_kn_idx",
+                    "cnc_tm_w_idx",
+                    "vent_tm_w_idx",
+                    "vent_im_o_idx",
+                    "rist_ksi_kn_idx",
+                    "chmtech_ksi_ab_idx",
+                    "term_ksi_ab_idx",
+                    "pnr_im_d_idx",
+                    "ntb_im_d_idx",
+                    "tmc_im_d_idx",
+                    "cnc_im_d_idx",
+                    "snnc_ksi_g_idx",
+                    "ef_im_d_idx",
+                    "himt_ksi_ab_idx",
+                    "dwinter_ksi_q_idx",
+                    "cnc_ksi_g_idx",
+                    "pns_im_o_idx",
+                    "snnc_im_d_idx",
+                    "pnr_ksi_b_idx",
+                    "ef_ksi_b_idx",
+                    "plantc_ksi_kn_idx",
+                    "eng_tm_tm_idx",
+                    "posco_el_sc_idx",
+                    "ef_ksi_kn_idx",
+                    "ef_ksi_ab_idx",
+                    "anc_ksi_g_idx",
+                    "posco_im_n_idx",
+                    "ntb_tm_w_idx",
+                    "himt_tm_w_idx",
+                    "ntb_tm_tm_idx",
+                    "plantc_ksi_q_idx",
+                    "mtech_ksi_q_idx",
+                    "eng_tm_w_idx",
+                    "ict_im_o_idx",
+                    "anc_im_d_idx",
+                    "univ_tm_w_idx",
+                    "ict_ksi_g_idx",
+                    "univ_im_d_idx",
+                    "ast_ksi_g_idx",
+                    "vent_ksi_q_idx",
+                    "pnr_ksi_kn_idx",
+                    "snnc_ksi_q_idx",
+                    "posco_el_oe_idx",
+                    "enc_tm_w_idx",
+                    "himt_im_o_idx",
+                    "posco_el_si_idx",
+                    "cnc_ksi_ab_idx",
+                    "tmc_im_o_idx",
+                    "ast_ksi_ab_idx",
+                    "posco_ksi_ab_idx",
+                    "posco_ksi_g_idx",
+                    "cnc_ksi_q_idx",
+                    "posco_im_o_idx",
+                    "mtech_tm_w_idx",
+                    "univ_ksi_q_idx",
+                    "enc_im_o_idx",
+                    "eng_ksi_kn_idx",
+                    "mtech_ksi_kn_idx",
+                    "rist_ksi_q_idx",
+                    "ef_tm_tm_idx",
+                    "pnr_im_o_idx",
+                    "pns_im_d_idx",
+                    "ntb_ksi_ab_idx",
+                    "dwinter_ksi_g_idx",
+                    "chmtech_ksi_q_idx",
+                    "ef_tm_w_idx",
+                    "vent_ksi_kn_idx",
+                    "ef_ksi_q_idx",
+                    "term_ksi_b_idx",
+                    "chmtech_im_o_idx",
+                    "chmtech_ksi_g_idx",
+                    "enc_ksi_ab_idx",
+                    "cnc_tm_tm_idx",
+                    "snnc_ksi_kn_idx",
+                    "enc_im_d_idx",
+                    "posco_el_vc_idx",
+                    "snnc_ksi_ab_idx",
+                    "ast_ksi_q_idx",
+                    "plantc_ksi_g_idx",
+                    "ast_ksi_b_idx",
+                    "term_tm_w_idx",
+                    "snnc_tm_tm_idx",
+                    "posco_el_mc_idx",
+                    "pnr_tm_tm_idx",
+                    "mtech_ksi_ab_idx",
+                    "chmtech_tm_tm_idx",
+                    "plantc_tm_tm_idx",
+                    "eng_ksi_b_idx",
+                    "univ_ksi_b_idx",
+                    "dwinter_im_o_idx",
+                    "tmc_ksi_q_idx",
+                    "vent_ksi_ab_idx",
+                    "univ_ksi_ab_idx",
+                    "plantc_tm_w_idx",
+                    "tmc_ksi_ab_idx",
+                    "posco_ksi_q_idx",
+                    "himt_ksi_kn_idx",
+                    "plantc_ksi_ab_idx",
+                    "enc_ksi_q_idx",
+                    "himt_im_d_idx",
+                    "posco_el_ou_idx",
+                    "ntb_im_o_idx",
+                    "posco_tm_w_idx",
+                    "pns_ksi_g_idx",
+                    "ntb_ksi_g_idx",
+                    "himt_ksi_q_idx",
+                    "anc_ksi_b_idx",
+                    "tmc_ksi_kn_idx",
+                    "anc_tm_tm_idx",
+                    "dwinter_im_d_idx",
+                    "plantc_ksi_b_idx",
+                    "mtech_ksi_g_idx",
+                    "univ_tm_tm_idx",
+                    "rist_ksi_g_idx",
+                    "term_ksi_g_idx",
+                    "ntb_ksi_q_idx",
+                    "pns_ksi_ab_idx",
+                    "posco_sigmaro_idx",
+                    "eng_im_d_idx",
+                    "posri_ksi_b_idx",
+                    "tmc_tm_w_idx",
+                    "pns_ksi_b_idx",
+                    "rist_im_o_idx",
+                    "pns_tm_w_idx",
+                    "posri_im_d_idx",
+                    "himt_ksi_g_idx",
+                    "ict_ksi_q_idx",
+                    "snnc_im_o_idx",
+                    "ast_ksi_kn_idx",
+                    "plantc_im_d_idx",
+                    "ast_tm_w_idx",
+                    "posri_im_o_idx",
+                    "ef_ksi_g_idx",
+                    "univ_ksi_g_idx",
+                    "posco_ppms_idx",
+                    "chmtech_tm_w_idx",
+                    "mtech_ksi_b_idx",
+                    "posri_tm_tm_idx",
+                    "mtech_tm_tm_idx",
+                    "rist_im_d_idx",
+                    "enc_ksi_b_idx",
+                    "dwinter_ksi_b_idx",
+                    "ict_tm_tm_idx",
+                    "anc_im_o_idx",
+                    "posri_ksi_kn_idx",
+                    "posco_el_de_idx",
+                    "dwinter_tm_tm_idx",
+                    "enc_ksi_kn_idx",
+                    "eng_ksi_g_idx",
+                    "pnr_ksi_q_idx",
+                    "himt_ksi_b_idx",
+                    "term_ksi_kn_idx",
+                    "mtech_im_o_idx",
+                    "dwinter_ksi_ab_idx",
+                    "tmc_tm_tm_idx",
+                    "cnc_im_o_idx",
+                    "anc_ksi_ab_idx",
+                    "ntb_ksi_kn_idx",
+                    "anc_ksi_kn_idx",
+                    "vent_im_d_idx",
+                    "himt_tm_tm_idx",
+                    "snnc_ksi_b_idx",
+                    "vent_ksi_b_idx",
+                    "posri_tm_w_idx",
+                    "tmc_ksi_b_idx",
+                    "enc_ksi_g_idx",
+                    "rist_tm_tm_idx",
+                    "ast_im_d_idx",
+                    "ict_ksi_kn_idx",
+                    "pnr_ksi_ab_idx",
+                    "chmtech_im_d_idx",
+                    "tmc_ksi_g_idx",
+                    "snnc_tm_w_idx",
+                    "ict_ksi_ab_idx",
+                    "eng_ksi_ab_idx",
+                    "term_ksi_q_idx",
+                    "term_im_o_idx",
+                    "cnc_ksi_b_idx",
+                    "posco_ksi_b_idx",
+                    "posco_ksi_kn_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "POSCO_ES_EXP",
+                "indices": [
+                    "posco_im_d_idx",
+                    "posco_im_p_idx",
+                    "posco_tm_tm_idx",
+                    "posco_im_n_idx",
+                    "posco_ksi_ab_idx",
+                    "posco_ksi_g_idx",
+                    "posco_im_o_idx",
+                    "posco_ksi_q_idx",
+                    "posco_tm_w_idx",
+                    "posco_ksi_b_idx",
+                    "posco_ksi_kn_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "EL_SI",
+                "indices": [
+                    "posco_el_si_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "IMS_GROUP_P",
+                "indices": [
+                    "posco_im_p",
+                    "posco_im_p_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "EL_GROUP_OE_VE_VC",
+                "indices": [
+                    "posco_el_oe_idx",
+                    "posco_el_vc_idx",
+                    "posco_el_de_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "WAS_REST_ARIRANG_TOKENIZER",
+                "indices": [
+                    "es_search_arirang_tokenizer"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "EL_VC",
+                "indices": [
+                    "posco_el_vc_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "ANC_ES_EXP",
+                "indices": [
+                    "anc_im_i_idx",
+                    "anc_im_t_idx",
+                    "anc_ksi_q_idx",
+                    "anc_tm_w_idx",
+                    "anc_ksi_g_idx",
+                    "anc_im_d_idx",
+                    "anc_ksi_b_idx",
+                    "anc_tm_tm_idx",
+                    "anc_im_o_idx",
+                    "anc_ksi_ab_idx",
+                    "anc_ksi_kn_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "EL_SC",
+                "indices": [
+                    "posco_el_sc_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "EF_ES_EXP",
+                "indices": [
+                    "ef_im_o_idx",
+                    "ef_im_d_idx",
+                    "ef_ksi_b_idx",
+                    "ef_ksi_kn_idx",
+                    "ef_ksi_ab_idx",
+                    "ef_tm_tm_idx",
+                    "ef_tm_w_idx",
+                    "ef_ksi_q_idx",
+                    "ef_im_t_idx",
+                    "ef_ksi_g_idx",
+                    "ef_im_i_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "KSI_GROUP_G",
+                "indices": [
+                    "pnr_ksi_g_idx",
+                    "vent_ksi_g_idx",
+                    "posri_ksi_g_idx",
+                    "snnc_ksi_g_idx",
+                    "cnc_ksi_g_idx",
+                    "anc_ksi_g_idx",
+                    "ict_ksi_g_idx",
+                    "ast_ksi_g_idx",
+                    "posco_ksi_g_idx",
+                    "dwinter_ksi_g_idx",
+                    "chmtech_ksi_g_idx",
+                    "plantc_ksi_g_idx",
+                    "pns_ksi_g_idx",
+                    "ntb_ksi_g_idx",
+                    "mtech_ksi_g_idx",
+                    "rist_ksi_g_idx",
+                    "term_ksi_g_idx",
+                    "himt_ksi_g_idx",
+                    "ef_ksi_g_idx",
+                    "univ_ksi_g_idx",
+                    "eng_ksi_g_idx",
+                    "enc_ksi_g_idx",
+                    "tmc_ksi_g_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "CNC_NOTICE_IDX",
+                "indices": [
+                    "cnc_board_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "RIST_ES_EXP",
+                "indices": [
+                    "rist_tm_w_idx",
+                    "rist_ksi_ab_idx",
+                    "rist_ksi_b_idx",
+                    "rist_ksi_kn_idx",
+                    "rist_im_i_idx",
+                    "rist_ksi_q_idx",
+                    "rist_ecm_idx",
+                    "rist_ksi_g_idx",
+                    "rist_im_o_idx",
+                    "rist_im_t_idx",
+                    "rist_im_d_idx",
+                    "rist_tm_tm_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "ICT_CONTRACT_MONITORING",
+                "indices": [
+                    "ict_contract_audit"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "IMS_GROUP_N",
+                "indices": [
+                    "posco_im_n",
+                    "posco_im_n_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "WAS_REST_MECAB_TOKENIZER",
+                "indices": [
+                    "es_search_mecab_tokenizer"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "ANC_NOTICE_IDX",
+                "indices": [
+                    "anc_board_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "TMS_GROUP_W",
+                "indices": [
+                    "ict_tm_w_idx",
+                    "rist_tm_w_idx",
+                    "pnr_tm_w_idx",
+                    "anc_tm_w_idx",
+                    "dwinter_tm_w_idx",
+                    "cnc_tm_w_idx",
+                    "vent_tm_w_idx",
+                    "ntb_tm_w_idx",
+                    "himt_tm_w_idx",
+                    "eng_tm_w_idx",
+                    "univ_tm_w_idx",
+                    "enc_tm_w_idx",
+                    "mtech_tm_w_idx",
+                    "ef_tm_w_idx",
+                    "term_tm_w_idx",
+                    "plantc_tm_w_idx",
+                    "posco_tm_w_idx",
+                    "tmc_tm_w_idx",
+                    "pns_tm_w_idx",
+                    "ast_tm_w_idx",
+                    "chmtech_tm_w_idx",
+                    "posri_tm_w_idx",
+                    "snnc_tm_w_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "TERM_NOTICE_IDX",
+                "indices": [
+                    "term_board_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "UNIV_NOTICE_IDX",
+                "indices": [
+                    "univ_board_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "HIMT_ECM",
+                "indices": [
+                    "himt_ecm_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "EL_OE",
+                "indices": [
+                    "posco_el_oe_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "CNC_ES_EXP",
+                "indices": [
+                    "cnc_ksi_kn_idx",
+                    "cnc_tm_w_idx",
+                    "cnc_im_d_idx",
+                    "cnc_ksi_g_idx",
+                    "cnc_ksi_ab_idx",
+                    "cnc_ksi_q_idx",
+                    "cnc_tm_tm_idx",
+                    "cnc_im_t_idx",
+                    "cnc_im_o_idx",
+                    "cnc_im_i_idx",
+                    "cnc_ksi_b_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "HIMT_NOTICE",
+                "indices": [
+                    "himt_gesi_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "VENT_NOTICE_IDX",
+                "indices": [
+                    "vent_board_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "PPMS",
+                "indices": [
+                    "posco_ppms_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "KSI_G",
+                "indices": [
+                    "posco_ksi_g_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "TERM_ES_EXP",
+                "indices": [
+                    "term_tm_tm_idx",
+                    "term_im_d_idx",
+                    "term_ksi_ab_idx",
+                    "term_im_i_idx",
+                    "term_im_t_idx",
+                    "term_ksi_b_idx",
+                    "term_tm_w_idx",
+                    "term_ksi_g_idx",
+                    "term_ksi_kn_idx",
+                    "term_ksi_q_idx",
+                    "term_im_o_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "ENG_NOTICE",
+                "indices": [
+                    "eng_gesi_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "PNR_NOTICE_IDX",
+                "indices": [
+                    "pnr_board_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "HIMT_NOTICE_IDX",
+                "indices": [
+                    "himt_board_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "EL_OU",
+                "indices": [
+                    "posco_el_ou_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "EL_GROUP_OU_SI_MC_SC",
+                "indices": [
+                    "posco_el_sc_idx",
+                    "posco_el_si_idx",
+                    "posco_el_mc_idx",
+                    "posco_el_ou_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "UNIV_NOTICE",
+                "indices": [
+                    "univ_gesi_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "posco_today_idx",
+                "indices": [
+                    "posco_today_new"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "PLANTC_NOTICE_IDX",
+                "indices": [
+                    "plantc_board_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "NTM_TM",
+                "indices": [
+                    "posco_tm_tm_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "KSI_GROUP_Q",
+                "indices": [
+                    "pns_ksi_q_idx",
+                    "anc_ksi_q_idx",
+                    "eng_ksi_q_idx",
+                    "posri_ksi_q_idx",
+                    "dwinter_ksi_q_idx",
+                    "plantc_ksi_q_idx",
+                    "mtech_ksi_q_idx",
+                    "vent_ksi_q_idx",
+                    "snnc_ksi_q_idx",
+                    "cnc_ksi_q_idx",
+                    "univ_ksi_q_idx",
+                    "rist_ksi_q_idx",
+                    "chmtech_ksi_q_idx",
+                    "ef_ksi_q_idx",
+                    "ast_ksi_q_idx",
+                    "tmc_ksi_q_idx",
+                    "posco_ksi_q_idx",
+                    "enc_ksi_q_idx",
+                    "himt_ksi_q_idx",
+                    "ntb_ksi_q_idx",
+                    "ict_ksi_q_idx",
+                    "pnr_ksi_q_idx",
+                    "term_ksi_q_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "posco_gsop",
+                "indices": [
+                    "posco_gsop_snr_idx",
+                    "posco_gsop_tsk_idx",
+                    "posco_gsop_prn_idx",
+                    "posco_gsop_pro_idx",
+                    "posco_gsop_stp_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "ENG_ES_EXP",
+                "indices": [
+                    "eng_ksi_q_idx",
+                    "eng_im_o_idx",
+                    "eng_tm_tm_idx",
+                    "eng_tm_w_idx",
+                    "eng_ksi_kn_idx",
+                    "eng_ksi_b_idx",
+                    "eng_im_t_idx",
+                    "eng_im_d_idx",
+                    "eng_ksi_g_idx",
+                    "eng_im_i_idx",
+                    "eng_ksi_ab_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "IMS_GROUP_O",
+                "indices": [
+                    "plantc_im_o_idx",
+                    "univ_im_o_idx",
+                    "ast_im_o_idx",
+                    "posco_im_p_idx",
+                    "ef_im_o_idx",
+                    "eng_im_o_idx",
+                    "vent_im_o_idx",
+                    "ict_im_x_idx",
+                    "pns_im_o_idx",
+                    "enc_im_z_idx",
+                    "posco_im_n_idx",
+                    "ict_im_o_idx",
+                    "himt_im_o_idx",
+                    "tmc_im_o_idx",
+                    "posco_im_o_idx",
+                    "enc_im_o_idx",
+                    "pnr_im_o_idx",
+                    "chmtech_im_o_idx",
+                    "dwinter_im_o_idx",
+                    "ntb_im_o_idx",
+                    "rist_im_o_idx",
+                    "snnc_im_o_idx",
+                    "posri_im_o_idx",
+                    "anc_im_o_idx",
+                    "mtech_im_o_idx",
+                    "cnc_im_o_idx",
+                    "term_im_o_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "POSCO_MOVIE",
+                "indices": [
+                    "posco_el_sc_idx",
+                    "posco_el_si_idx",
+                    "posco_el_mc_idx",
+                    "posco_el_ou_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "ENC_NOTICE_IDX",
+                "indices": [
+                    "enc_board_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "ICT_ES_EXP",
+                "indices": [
+                    "ict_tm_w_idx",
+                    "ict_ksi_b_idx",
+                    "ict_im_x_idx",
+                    "ict_im_t_idx",
+                    "ict_im_o_idx",
+                    "ict_ksi_g_idx",
+                    "ict_im_i_idx",
+                    "ict_ksi_q_idx",
+                    "ict_tm_tm_idx",
+                    "ict_ksi_kn_idx",
+                    "ict_ksi_ab_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "WAS_REST_TOKENIZER",
+                "indices": [
+                    "es_search_mecab_tokenizer",
+                    "es_search_arirang_tokenizer1",
+                    "es_search_tokenizer"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "TMC_ES_EXP",
+                "indices": [
+                    "tmc_im_d_idx",
+                    "tmc_im_o_idx",
+                    "tmc_ksi_q_idx",
+                    "tmc_ksi_ab_idx",
+                    "tmc_ksi_kn_idx",
+                    "tmc_tm_w_idx",
+                    "tmc_tm_tm_idx",
+                    "tmc_im_t_idx",
+                    "tmc_ksi_b_idx",
+                    "tmc_im_i_idx",
+                    "tmc_ksi_g_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "IM_N",
+                "indices": [
+                    "posco_im_n_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "SNNC_NOTICE",
+                "indices": [
+                    "snnc_gesi_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "IMS_GROUP_I",
+                "indices": [
+                    "pns_im_i_idx",
+                    "anc_im_i_idx",
+                    "snnc_im_i_idx",
+                    "himt_im_i_idx",
+                    "chmtech_im_i_idx",
+                    "ast_im_i_idx",
+                    "term_im_i_idx",
+                    "rist_im_i_idx",
+                    "ntb_im_i_idx",
+                    "univ_im_i_idx",
+                    "vent_im_i_idx",
+                    "dwinter_im_i_idx",
+                    "mtech_im_i_idx",
+                    "ict_im_i_idx",
+                    "pnr_im_i_idx",
+                    "posri_im_i_idx",
+                    "enc_im_i_idx",
+                    "plantc_im_i_idx",
+                    "eng_im_i_idx",
+                    "cnc_im_i_idx",
+                    "tmc_im_i_idx",
+                    "ef_im_i_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "PNR_ES_EXP",
+                "indices": [
+                    "pnr_ksi_g_idx",
+                    "pnr_tm_w_idx",
+                    "pnr_im_d_idx",
+                    "pnr_ksi_b_idx",
+                    "pnr_ksi_kn_idx",
+                    "pnr_im_o_idx",
+                    "pnr_tm_tm_idx",
+                    "pnr_im_i_idx",
+                    "pnr_ksi_q_idx",
+                    "pnr_ksi_ab_idx",
+                    "pnr_im_t_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "TM_TM",
+                "indices": [
+                    "term_tm_tm_idx",
+                    "vent_tm_tm_idx",
+                    "posco_tm_tm_idx",
+                    "enc_tm_tm_idx",
+                    "ast_tm_tm_idx",
+                    "pns_tm_tm_idx",
+                    "eng_tm_tm_idx",
+                    "ntb_tm_tm_idx",
+                    "ef_tm_tm_idx",
+                    "cnc_tm_tm_idx",
+                    "snnc_tm_tm_idx",
+                    "pnr_tm_tm_idx",
+                    "chmtech_tm_tm_idx",
+                    "plantc_tm_tm_idx",
+                    "anc_tm_tm_idx",
+                    "univ_tm_tm_idx",
+                    "posri_tm_tm_idx",
+                    "mtech_tm_tm_idx",
+                    "ict_tm_tm_idx",
+                    "dwinter_tm_tm_idx",
+                    "tmc_tm_tm_idx",
+                    "himt_tm_tm_idx",
+                    "rist_tm_tm_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "SIGMARO",
+                "indices": [
+                    "posco_sigmaro_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "GLOSSARY",
+                "indices": [
+                    "posco_glossary_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "TERM_NOTICE",
+                "indices": [
+                    "term_gesi_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "PHNTA",
+                "indices": [
+                    "posco_phnta_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "KSI_B",
+                "indices": [
+                    "posco_ksi_b_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "DWINTER_ES_EXP",
+                "indices": [
+                    "dwinter_ksi_kn_idx",
+                    "dwinter_tm_w_idx",
+                    "dwinter_im_t_idx",
+                    "dwinter_ksi_q_idx",
+                    "dwinter_ksi_g_idx",
+                    "dwinter_im_o_idx",
+                    "dwinter_im_i_idx",
+                    "dwinter_im_d_idx",
+                    "dwinter_ksi_b_idx",
+                    "dwinter_tm_tm_idx",
+                    "dwinter_ksi_ab_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "ICT_KAMS",
+                "indices": [
+                    "ict_kams_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "NTB_NOTICE",
+                "indices": [
+                    "ntb_gesi_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "TMS_GROUP_TW",
+                "indices": [
+                    "ict_tm_w_idx",
+                    "term_tm_tm_idx",
+                    "rist_tm_w_idx",
+                    "pnr_tm_w_idx",
+                    "vent_tm_tm_idx",
+                    "anc_tm_w_idx",
+                    "posco_tm_tm_idx",
+                    "enc_tm_tm_idx",
+                    "dwinter_tm_w_idx",
+                    "ast_tm_tm_idx",
+                    "pns_tm_tm_idx",
+                    "cnc_tm_w_idx",
+                    "vent_tm_w_idx",
+                    "eng_tm_tm_idx",
+                    "ntb_tm_w_idx",
+                    "himt_tm_w_idx",
+                    "ntb_tm_tm_idx",
+                    "eng_tm_w_idx",
+                    "univ_tm_w_idx",
+                    "enc_tm_w_idx",
+                    "mtech_tm_w_idx",
+                    "ef_tm_tm_idx",
+                    "ef_tm_w_idx",
+                    "cnc_tm_tm_idx",
+                    "term_tm_w_idx",
+                    "snnc_tm_tm_idx",
+                    "pnr_tm_tm_idx",
+                    "chmtech_tm_tm_idx",
+                    "plantc_tm_tm_idx",
+                    "plantc_tm_w_idx",
+                    "posco_tm_w_idx",
+                    "anc_tm_tm_idx",
+                    "univ_tm_tm_idx",
+                    "tmc_tm_w_idx",
+                    "pns_tm_w_idx",
+                    "ast_tm_w_idx",
+                    "chmtech_tm_w_idx",
+                    "posri_tm_tm_idx",
+                    "mtech_tm_tm_idx",
+                    "ict_tm_tm_idx",
+                    "dwinter_tm_tm_idx",
+                    "tmc_tm_tm_idx",
+                    "himt_tm_tm_idx",
+                    "posri_tm_w_idx",
+                    "rist_tm_tm_idx",
+                    "snnc_tm_w_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "PLANTC_ES_EXP",
+                "indices": [
+                    "plantc_im_o_idx",
+                    "plantc_ksi_kn_idx",
+                    "plantc_ksi_q_idx",
+                    "plantc_ksi_g_idx",
+                    "plantc_tm_tm_idx",
+                    "plantc_tm_w_idx",
+                    "plantc_ksi_ab_idx",
+                    "plantc_ksi_b_idx",
+                    "plantc_im_t_idx",
+                    "plantc_im_d_idx",
+                    "plantc_im_i_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "IMS_GROUP_D",
+                "indices": [
+                    "mtech_im_d_idx",
+                    "posco_im_d_idx",
+                    "term_im_d_idx",
+                    "pnr_im_d_idx",
+                    "ntb_im_d_idx",
+                    "tmc_im_d_idx",
+                    "cnc_im_d_idx",
+                    "ef_im_d_idx",
+                    "snnc_im_d_idx",
+                    "anc_im_d_idx",
+                    "univ_im_d_idx",
+                    "pns_im_d_idx",
+                    "enc_im_d_idx",
+                    "himt_im_d_idx",
+                    "dwinter_im_d_idx",
+                    "eng_im_d_idx",
+                    "posri_im_d_idx",
+                    "plantc_im_d_idx",
+                    "rist_im_d_idx",
+                    "vent_im_d_idx",
+                    "ast_im_d_idx",
+                    "chmtech_im_d_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "FEC_NOTICE_IDX",
+                "indices": [
+                    "fec_board_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "RIST_NOTICE",
+                "indices": [
+                    "rist_gesi_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "SNNC_ES_EXP",
+                "indices": [
+                    "snnc_ksi_g_idx",
+                    "snnc_im_i_idx",
+                    "snnc_im_d_idx",
+                    "snnc_ksi_q_idx",
+                    "snnc_im_t_idx",
+                    "snnc_ksi_kn_idx",
+                    "snnc_ksi_ab_idx",
+                    "snnc_tm_tm_idx",
+                    "snnc_im_o_idx",
+                    "snnc_ksi_b_idx",
+                    "snnc_tm_w_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "MTECH_NOTICE",
+                "indices": [
+                    "mtech_gesi_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "PALNTC_ES_EXP",
+                "indices": [
+                    "plantc_im_o_idx",
+                    "plantc_ksi_kn_idx",
+                    "plantc_ksi_q_idx",
+                    "plantc_ksi_g_idx",
+                    "plantc_tm_tm_idx",
+                    "plantc_tm_w_idx",
+                    "plantc_ksi_ab_idx",
+                    "plantc_ecm_idx",
+                    "plantc_ksi_b_idx",
+                    "plantc_im_t_idx",
+                    "plantc_im_d_idx",
+                    "plantc_im_i_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "SNNC_NOTICE_IDX",
+                "indices": [
+                    "snnc_board_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "GSOP",
+                "indices": [
+                    "posco_gsop_snr_idx",
+                    "posco_gsop_tsk_idx",
+                    "posco_gsop_prn_idx",
+                    "posco_gsop_pro_idx",
+                    "posco_gsop_stp_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "POSRI_NOTICE_IDX",
+                "indices": [
+                    "posri_board_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "VENT_ES_EXP",
+                "indices": [
+                    "vent_im_t_idx",
+                    "vent_tm_tm_idx",
+                    "vent_ksi_g_idx",
+                    "vent_tm_w_idx",
+                    "vent_im_o_idx",
+                    "vent_ksi_q_idx",
+                    "vent_ksi_kn_idx",
+                    "vent_ksi_ab_idx",
+                    "vent_im_i_idx",
+                    "vent_im_d_idx",
+                    "vent_ksi_b_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "MTECH_NOTICE_IDX",
+                "indices": [
+                    "mtech_board_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "TMS_GROUP_TM",
+                "indices": [
+                    "term_tm_tm_idx",
+                    "vent_tm_tm_idx",
+                    "posco_tm_tm_idx",
+                    "enc_tm_tm_idx",
+                    "ast_tm_tm_idx",
+                    "pns_tm_tm_idx",
+                    "eng_tm_tm_idx",
+                    "ntb_tm_tm_idx",
+                    "ef_tm_tm_idx",
+                    "cnc_tm_tm_idx",
+                    "snnc_tm_tm_idx",
+                    "pnr_tm_tm_idx",
+                    "chmtech_tm_tm_idx",
+                    "plantc_tm_tm_idx",
+                    "anc_tm_tm_idx",
+                    "univ_tm_tm_idx",
+                    "posri_tm_tm_idx",
+                    "mtech_tm_tm_idx",
+                    "ict_tm_tm_idx",
+                    "dwinter_tm_tm_idx",
+                    "tmc_tm_tm_idx",
+                    "himt_tm_tm_idx",
+                    "rist_tm_tm_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "VENT_NOTICE",
+                "indices": [
+                    "vent_gesi_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "POSRI_NOTICE",
+                "indices": [
+                    "posri_gesi_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "KSI_KN",
+                "indices": [
+                    "posco_ksi_kn_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "PNS_NOTICE",
+                "indices": [
+                    "pns_gesi_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "RIST_NOTICE_IDX",
+                "indices": [
+                    "rist_board_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "POSCO_RECOMMEND",
+                "indices": [
+                    "mtech_im_d_idx",
+                    "posco_im_d_idx",
+                    "ict_tm_w_idx",
+                    "plantc_im_o_idx",
+                    "term_tm_tm_idx",
+                    "pns_ksi_kn_idx",
+                    "pns_ksi_q_idx",
+                    "univ_im_o_idx",
+                    "ast_im_o_idx",
+                    "dwinter_ksi_kn_idx",
+                    "rist_tm_w_idx",
+                    "univ_ksi_kn_idx",
+                    "anc_ksi_q_idx",
+                    "posri_ksi_ab_idx",
+                    "pnr_ksi_g_idx",
+                    "pnr_tm_w_idx",
+                    "vent_tm_tm_idx",
+                    "rist_ksi_ab_idx",
+                    "anc_tm_w_idx",
+                    "chmtech_ksi_b_idx",
+                    "posco_im_p_idx",
+                    "posco_tm_tm_idx",
+                    "ef_im_o_idx",
+                    "eng_ksi_q_idx",
+                    "posri_ksi_q_idx",
+                    "posco_notice_idx",
+                    "rist_ksi_b_idx",
+                    "cnc_ksi_kn_idx",
+                    "eng_im_o_idx",
+                    "enc_tm_tm_idx",
+                    "term_im_d_idx",
+                    "dwinter_tm_w_idx",
+                    "ntb_ksi_b_idx",
+                    "ast_tm_tm_idx",
+                    "pns_tm_tm_idx",
+                    "vent_ksi_g_idx",
+                    "ict_ksi_b_idx",
+                    "posri_ksi_g_idx",
+                    "chmtech_ksi_kn_idx",
+                    "cnc_tm_w_idx",
+                    "vent_tm_w_idx",
+                    "vent_im_o_idx",
+                    "rist_ksi_kn_idx",
+                    "chmtech_ksi_ab_idx",
+                    "term_ksi_ab_idx",
+                    "pnr_im_d_idx",
+                    "ntb_im_d_idx",
+                    "tmc_im_d_idx",
+                    "cnc_im_d_idx",
+                    "snnc_ksi_g_idx",
+                    "ef_im_d_idx",
+                    "himt_ksi_ab_idx",
+                    "dwinter_ksi_q_idx",
+                    "cnc_ksi_g_idx",
+                    "pns_im_o_idx",
+                    "snnc_im_d_idx",
+                    "pnr_ksi_b_idx",
+                    "ef_ksi_b_idx",
+                    "plantc_ksi_kn_idx",
+                    "eng_tm_tm_idx",
+                    "posco_el_sc_idx",
+                    "ef_ksi_kn_idx",
+                    "ef_ksi_ab_idx",
+                    "anc_ksi_g_idx",
+                    "posco_im_n_idx",
+                    "ntb_tm_w_idx",
+                    "himt_tm_w_idx",
+                    "ntb_tm_tm_idx",
+                    "plantc_ksi_q_idx",
+                    "mtech_ksi_q_idx",
+                    "eng_tm_w_idx",
+                    "ict_im_o_idx",
+                    "anc_im_d_idx",
+                    "univ_tm_w_idx",
+                    "ict_ksi_g_idx",
+                    "univ_im_d_idx",
+                    "ast_ksi_g_idx",
+                    "vent_ksi_q_idx",
+                    "pnr_ksi_kn_idx",
+                    "snnc_ksi_q_idx",
+                    "posco_el_oe_idx",
+                    "enc_tm_w_idx",
+                    "himt_im_o_idx",
+                    "posco_el_si_idx",
+                    "cnc_ksi_ab_idx",
+                    "tmc_im_o_idx",
+                    "ast_ksi_ab_idx",
+                    "posco_ksi_ab_idx",
+                    "posco_ksi_g_idx",
+                    "cnc_ksi_q_idx",
+                    "posco_im_o_idx",
+                    "mtech_tm_w_idx",
+                    "univ_ksi_q_idx",
+                    "enc_im_o_idx",
+                    "eng_ksi_kn_idx",
+                    "mtech_ksi_kn_idx",
+                    "rist_ksi_q_idx",
+                    "ef_tm_tm_idx",
+                    "pnr_im_o_idx",
+                    "pns_im_d_idx",
+                    "ntb_ksi_ab_idx",
+                    "dwinter_ksi_g_idx",
+                    "chmtech_ksi_q_idx",
+                    "ef_tm_w_idx",
+                    "vent_ksi_kn_idx",
+                    "ef_ksi_q_idx",
+                    "term_ksi_b_idx",
+                    "chmtech_im_o_idx",
+                    "chmtech_ksi_g_idx",
+                    "enc_ksi_ab_idx",
+                    "cnc_tm_tm_idx",
+                    "snnc_ksi_kn_idx",
+                    "enc_im_d_idx",
+                    "posco_el_vc_idx",
+                    "snnc_ksi_ab_idx",
+                    "ast_ksi_q_idx",
+                    "plantc_ksi_g_idx",
+                    "ast_ksi_b_idx",
+                    "term_tm_w_idx",
+                    "snnc_tm_tm_idx",
+                    "posco_el_mc_idx",
+                    "pnr_tm_tm_idx",
+                    "mtech_ksi_ab_idx",
+                    "chmtech_tm_tm_idx",
+                    "plantc_tm_tm_idx",
+                    "eng_ksi_b_idx",
+                    "univ_ksi_b_idx",
+                    "dwinter_im_o_idx",
+                    "tmc_ksi_q_idx",
+                    "vent_ksi_ab_idx",
+                    "univ_ksi_ab_idx",
+                    "plantc_tm_w_idx",
+                    "tmc_ksi_ab_idx",
+                    "posco_ksi_q_idx",
+                    "himt_ksi_kn_idx",
+                    "plantc_ksi_ab_idx",
+                    "enc_ksi_q_idx",
+                    "himt_im_d_idx",
+                    "posco_el_ou_idx",
+                    "ntb_im_o_idx",
+                    "posco_tm_w_idx",
+                    "pns_ksi_g_idx",
+                    "ntb_ksi_g_idx",
+                    "himt_ksi_q_idx",
+                    "anc_ksi_b_idx",
+                    "tmc_ksi_kn_idx",
+                    "anc_tm_tm_idx",
+                    "dwinter_im_d_idx",
+                    "plantc_ksi_b_idx",
+                    "mtech_ksi_g_idx",
+                    "univ_tm_tm_idx",
+                    "rist_ksi_g_idx",
+                    "term_ksi_g_idx",
+                    "ntb_ksi_q_idx",
+                    "pns_ksi_ab_idx",
+                    "posco_sigmaro_idx",
+                    "eng_im_d_idx",
+                    "posri_ksi_b_idx",
+                    "tmc_tm_w_idx",
+                    "pns_ksi_b_idx",
+                    "rist_im_o_idx",
+                    "pns_tm_w_idx",
+                    "ict_im_i_idx",
+                    "posri_im_d_idx",
+                    "himt_ksi_g_idx",
+                    "ict_ksi_q_idx",
+                    "snnc_im_o_idx",
+                    "ast_ksi_kn_idx",
+                    "plantc_im_d_idx",
+                    "ast_tm_w_idx",
+                    "posri_im_o_idx",
+                    "ef_ksi_g_idx",
+                    "univ_ksi_g_idx",
+                    "posco_ppms_idx",
+                    "chmtech_tm_w_idx",
+                    "mtech_ksi_b_idx",
+                    "posri_tm_tm_idx",
+                    "mtech_tm_tm_idx",
+                    "rist_im_d_idx",
+                    "enc_ksi_b_idx",
+                    "dwinter_ksi_b_idx",
+                    "ict_tm_tm_idx",
+                    "anc_im_o_idx",
+                    "posri_ksi_kn_idx",
+                    "posco_el_de_idx",
+                    "dwinter_tm_tm_idx",
+                    "enc_ksi_kn_idx",
+                    "eng_ksi_g_idx",
+                    "pnr_ksi_q_idx",
+                    "himt_ksi_b_idx",
+                    "term_ksi_kn_idx",
+                    "mtech_im_o_idx",
+                    "dwinter_ksi_ab_idx",
+                    "tmc_tm_tm_idx",
+                    "cnc_im_o_idx",
+                    "anc_ksi_ab_idx",
+                    "ntb_ksi_kn_idx",
+                    "anc_ksi_kn_idx",
+                    "vent_im_d_idx",
+                    "himt_tm_tm_idx",
+                    "snnc_ksi_b_idx",
+                    "vent_ksi_b_idx",
+                    "posri_tm_w_idx",
+                    "tmc_ksi_b_idx",
+                    "enc_ksi_g_idx",
+                    "rist_tm_tm_idx",
+                    "ast_im_d_idx",
+                    "ict_ksi_kn_idx",
+                    "pnr_ksi_ab_idx",
+                    "chmtech_im_d_idx",
+                    "tmc_ksi_g_idx",
+                    "snnc_tm_w_idx",
+                    "ict_ksi_ab_idx",
+                    "eng_ksi_ab_idx",
+                    "term_ksi_q_idx",
+                    "term_im_o_idx",
+                    "cnc_ksi_b_idx",
+                    "posco_ksi_b_idx",
+                    "posco_ksi_kn_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "HIMT_ES_EXP",
+                "indices": [
+                    "himt_ksi_ab_idx",
+                    "himt_im_i_idx",
+                    "himt_tm_w_idx",
+                    "himt_im_o_idx",
+                    "himt_im_t_idx",
+                    "himt_ksi_kn_idx",
+                    "himt_im_d_idx",
+                    "himt_ksi_q_idx",
+                    "himt_ksi_g_idx",
+                    "himt_ksi_b_idx",
+                    "himt_tm_tm_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "AST_ES_EXP",
+                "indices": [
+                    "ast_im_o_idx",
+                    "ast_im_t_idx",
+                    "ast_tm_tm_idx",
+                    "ast_im_i_idx",
+                    "ast_ksi_g_idx",
+                    "ast_ksi_ab_idx",
+                    "ast_ksi_q_idx",
+                    "ast_ksi_b_idx",
+                    "ast_ksi_kn_idx",
+                    "ast_tm_w_idx",
+                    "ast_im_d_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "POSCO_GSOP",
+                "indices": [
+                    "posco_gsop_snr_idx",
+                    "posco_gsop_tsk_idx",
+                    "posco_gsop_prn_idx",
+                    "posco_gsop_pro_idx",
+                    "posco_gsop_stp_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "CONTENTS_HISTORY",
+                "indices": [
+                    "contents_queue_history",
+                    "contents_delete_history"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "POSRI_ES_EXP",
+                "indices": [
+                    "posri_ksi_ab_idx",
+                    "posri_ksi_q_idx",
+                    "posri_ksi_g_idx",
+                    "posri_ksi_b_idx",
+                    "posri_im_d_idx",
+                    "posri_im_i_idx",
+                    "posri_im_o_idx",
+                    "posri_tm_tm_idx",
+                    "posri_im_t_idx",
+                    "posri_ksi_kn_idx",
+                    "posri_tm_w_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "PNS_NOTICE_IDX",
+                "indices": [
+                    "pns_board_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "DWINTER_NOTICE_IDX",
+                "indices": [
+                    "dwinter_board_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "APP",
+                "indices": [
+                    "posco_app_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "ICT_NOTICE_IDX",
+                "indices": [
+                    "ict_board_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "IMS_GROUP_Z",
+                "indices": [
+                    "enc_im_z_idx",
+                    "enc_im_z"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "TM_W",
+                "indices": [
+                    "ict_tm_w_idx",
+                    "rist_tm_w_idx",
+                    "pnr_tm_w_idx",
+                    "anc_tm_w_idx",
+                    "dwinter_tm_w_idx",
+                    "cnc_tm_w_idx",
+                    "vent_tm_w_idx",
+                    "ntb_tm_w_idx",
+                    "himt_tm_w_idx",
+                    "eng_tm_w_idx",
+                    "univ_tm_w_idx",
+                    "enc_tm_w_idx",
+                    "mtech_tm_w_idx",
+                    "ef_tm_w_idx",
+                    "term_tm_w_idx",
+                    "plantc_tm_w_idx",
+                    "posco_tm_w_idx",
+                    "tmc_tm_w_idx",
+                    "pns_tm_w_idx",
+                    "ast_tm_w_idx",
+                    "chmtech_tm_w_idx",
+                    "posri_tm_w_idx",
+                    "snnc_tm_w_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "IMS_GROUP_X",
+                "indices": [
+                    "ict_im_x_idx",
+                    "ict_im_x"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "NTM_W",
+                "indices": [
+                    "posco_tm_w_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "ENG_NOTICE_IDX",
+                "indices": [
+                    "eng_board_idx"
+                ]
+            }
+        },
+        {
+            "add": {
+                "alias": "PNR_NOTICE",
+                "indices": [
+                    "pnr_gesi_idx"
+                ]
+            }
+        }
+    ]
+}

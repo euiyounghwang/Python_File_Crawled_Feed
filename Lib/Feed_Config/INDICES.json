@@ -1,0 +1,26 @@
+{
+  "DEBUG" : {
+    "INSERT": {
+      "30": [
+        "bank_version1"
+      ]
+    },
+    "DELETE": {
+      "30": [
+        "bank_version1"
+      ]
+    }
+  },
+  "RUN" : {
+    "INSERT": {
+      "30": [
+        "queue_delete_history_idx"
+      ]
+    },
+    "DELETE": {
+      "30": [
+        "test_idx"
+      ]
+    }
+  }
+}

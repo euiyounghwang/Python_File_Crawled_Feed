@@ -1,0 +1,9598 @@
+[
+  {
+    "key" : "***313",
+    "doc_count" : 2
+  },
+  {
+    "key" : "***337",
+    "doc_count" : 2
+  },
+  {
+    "key" : "***349",
+    "doc_count" : 2
+  },
+  {
+    "key" : "***354",
+    "doc_count" : 2
+  },
+  {
+    "key" : "***357",
+    "doc_count" : 2
+  },
+  {
+    "key" : "***373",
+    "doc_count" : 2
+  },
+  {
+    "key" : "***384",
+    "doc_count" : 2
+  },
+  {
+    "key" : "***386",
+    "doc_count" : 2
+  },
+  {
+    "key" : "***392",
+    "doc_count" : 2
+  },
+  {
+    "key" : "***399",
+    "doc_count" : 2
+  },
+  {
+    "key" : "***406",
+    "doc_count" : 2
+  },
+  {
+    "key" : "***417",
+    "doc_count" : 2
+  },
+  {
+    "key" : "***424",
+    "doc_count" : 2
+  },
+  {
+    "key" : "***430",
+    "doc_count" : 2
+  },
+  {
+    "key" : "***476",
+    "doc_count" : 2
+  },
+  {
+    "key" : "***491",
+    "doc_count" : 2
+  },
+  {
+    "key" : "***500",
+    "doc_count" : 2
+  },
+  {
+    "key" : "***551",
+    "doc_count" : 2
+  },
+  {
+    "key" : "***586",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1978TM1003SE1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1979TM1004KE1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1981TM1007HN1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1983NK0004KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1983NK0006KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1984NB0004KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1985TM1012MT1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1985TM1023IQ1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1985TM1031BR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1986TM1002SA1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1987NR0025KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1987NR0067KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1988NP0003KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1988NR0012KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1988NR0014KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1988NR0029KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1989NP0016KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1989NR0114KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1989NR0115KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1990NK0002KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1990NP0009KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1990NP0022KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1990NP0037KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1990NR0006KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1990NR0030KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1990NR0044KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1990NR0056KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1990NR0067KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1990NR0077KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1990NR0098KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1991NB0003KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1991NK0006KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1991NK0011JP1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1991NK0011KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1991NK0013JP1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1991NK0026KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1991NP0024KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1991NP0034KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1991NP0062DE1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1991NP0062KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1991NP0081KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1991NP0114KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1991NR0072KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1991NR0122KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1991NR0132KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1991NR0140KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1991NR9901DE1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1991TM0005KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1992NB0003KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1992NB0013KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1992NK0004KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1992NK0063KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1992NK0082KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1992NK0136KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1992NK0152KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1992NK0212KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1992NK0214KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1992NK0249KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1992NK0261KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1992NK0284KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1992NK0308KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1992NP0010KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1992NP0046KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1992NP0067KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1992NP0080GB1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1992NP0157KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1992NP0180KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1992NR0008KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1992NR0019KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1992NR0022KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1992NR0047KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1992NR0098KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1992NR0133KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1992NR0158KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1992NR0165KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1992NR0200KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1992NR9902US1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NK0005KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NK0015KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NK0054KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NK0117KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NK0140KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NK0158KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NK0202KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NK0235KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NK0240KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NK0254KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NK0257KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NK0270KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NK0298KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NK0372KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NK0384KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NP0049KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NP0088KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NP0107KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NP0202KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NP0219KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NP0224KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NP0225KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NP0232KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NP0233KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NP0260KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NP0342KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NP0350KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NP0357KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NP0362KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NP0384KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NP0447KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NR0002KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NR0066PCT1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NR0073KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NR0110KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NR0163KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NR0209KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NR0230KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NR0245KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NR0248KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NR0256KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NR0289KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NR0300KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NR0306KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NR0324KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NR0346KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NR0380CN1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NR0427KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NR0465KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NR9901ES1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1993NR9902LU1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NG0001KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0100KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0130KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0132KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0139KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0168KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0169KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0181KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0193KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0200KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0207KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0215KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0266KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0270KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0277KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0314KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0321KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0335KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0349KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0354KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0361KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0363KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0368KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0369KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0373KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0416KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0418KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0433KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0468KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0470KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0483KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0485KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0487KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0581KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0621KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0641KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0648KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0652KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0700KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0704KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NK0706KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NL0033KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NL0063KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NL0099KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NL0113KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NL0123KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NL0131KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NL0134KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NL0138KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NL0166KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NL0218KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NL0221KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NL0224KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0118KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0129KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0138KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0176KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0186KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0191KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0231KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0245KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0277KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0293KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0342KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0358KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0401KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0414KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0415KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0427KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0434KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0443KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0451KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0465KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0522KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0528KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0532KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0556KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0653KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0665KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0679KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0714KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0728KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0731KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0783KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0794KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0813KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0856KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0868KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0950KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0959KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0962KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0971KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP0976KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP1015KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP1029KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP1054KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP1073KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP1088KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP1113KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP1115KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP1148KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP1169KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP1198KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP1219KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP1229KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP1231KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP1242KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP1257KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP1293KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NP1305KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NR0003KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NR0004KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NR0029KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NR0035KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NR0038KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NR0054KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NR0077KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NR0087KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NR0101KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NR0106KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NR0114KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NR0122KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NR0142KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NR0151KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NR0165KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NR0182BY1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NR0182PCT1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NR0182UA1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NR0184KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NR0199KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NR0215KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NR0225KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NR0242SE1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NR0245KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NR0257KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NR0261KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NR0267KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NR0292KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NR0300KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994NR0329KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994TM0034KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994TM0039KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994TM1016ZA1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994TM1027GB1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994TM1028GB1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994TM1039PE1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994TM1051CN1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994TM1065JP1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994TM1089EG1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1994TM1108CL1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1995NK0011KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1995NK0015KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1995NK0026KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1995NK0077KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1995NK0081KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1995NK0097KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1995NK0110KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1995NK0251KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1995NK0255KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1995NK0285KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1995NK0291KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1995NK0322KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1995TM0001KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1995TM1033IR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1995TM1035JP1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK0758KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK0825KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK0827KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK0828KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK0849KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK0872KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK1035KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK1113KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK1354KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK1383KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK1418KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK1423KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK1431KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK1432KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK1436KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK1455KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK1460KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK1538KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK1606KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK1622KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK1641KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK1706KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK1748KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK1754KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK1763KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK1810KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK1827KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK1848KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK1853KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK2073KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK2074KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK2447KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK2463KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK2469KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK2477KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK2478KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK2485KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK2499KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK2500KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK2619KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK2635KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK2657KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK2743KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK2871KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK2907KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK2934KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK2960KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK2974KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK2985KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK3000KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK3040KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK3161KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK3184KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK3304KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK3431KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NK3440KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NL0022KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NL0026KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NL0027KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NL0086KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NL0087KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NL0103KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NL0104KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NL0114KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NL0118KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NL0130KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NL0133KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NL0138KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NL0147KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NL0166KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NL0178KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NL0203KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NL0204TW1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NL0209KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NL0271KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NL0295KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NL0303KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NL0324KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NL0372KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NL0382KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NL0413KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NL0438KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NL0440KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NL0490KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0035KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0074KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0077KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0096KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0139KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0157KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0186KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0203KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0235KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0250KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0254KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0283KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0300KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0302KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0356KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0375KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0389KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0390KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0393KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0444KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0465KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0471KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0472KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0495KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0531KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0558KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0561KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0574KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0601KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0607KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0619KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0637KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0638KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0658KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0663KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0672KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0688KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0700KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0715KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0721KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0731KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0754KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0800KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0819KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0838KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0871KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0888KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0889KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0901KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0922KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0923KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0948KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0963KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0975KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0980KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0990KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP0995KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1004KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1006KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1010KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1020KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1030KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1045KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1051KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1073KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1076KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1096KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1097KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1099KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1104KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1111KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1124KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1125KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1131KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1173KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1174KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1193KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1200KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1207KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1209KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1210KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1247KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1252KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1277KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1286KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1306KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1316KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1323KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1333KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1346KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1347KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1352KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1356KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1360KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1363KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1364KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1366KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1372KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1373KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1411KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1414KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1442KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1462KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1473KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1476KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1478KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1484KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1485KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1490KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1508KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1519KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1534KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1547KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1578KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1590KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1592KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1616KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1625KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1629KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1634KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1636KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1639KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1642KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1649KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1652KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1654KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1660KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1723KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1728KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1762KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1768KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1789KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1791KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1818KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1821KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1845KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1854KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1897KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1898KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1902KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1905KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1937KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP1940KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2022KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2034KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2039KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2047KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2099KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2109KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2110KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2125KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2166KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2196KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2201KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2204KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2217KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2224KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2235KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2250KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2265KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2274KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2282KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2285KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2313KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2319KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2324KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2346KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2363KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2365KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2368KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2398KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2412KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2438KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2451KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2467KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2490KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2492KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2513KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2516KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2520KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2541KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2543KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2572KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2582KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2595KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2601KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2610KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2625KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2627KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2628KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2633KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2636KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2677KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2692KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2695KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2702KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2707KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2712KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2724KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2747KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2755KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2764KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2783KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2788KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2804KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2812KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2828KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2882KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2891KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2907KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2921KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2927KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2940KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2955KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2982KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP2989KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3004KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3025KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3043KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3051KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3055KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3079KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3081KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3105KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3171KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3196KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3198KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3236KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3245KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3265KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3282KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3292KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3318KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3342KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3347KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3351KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3389KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3534KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3546KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3560KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3561KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3572KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3584KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3586KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3623KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3662KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3670KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3671KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3757KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3804KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3875KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3883KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3907KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3914KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3931KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NP3940KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NR0048KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NR0054CZ1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NR0055BE1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NR0055US1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NR0075KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NR0091KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NR0105KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NR0245KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NR0255KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NR0258KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NR0288KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NR0295KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NR0318KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NR0322KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NR0324KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NR0328KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NR0351KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NR0472KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NR0474KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NR0489KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NR0496KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NR0526KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NR0555KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NR0576KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1998NR0583KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NB0009KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NB0033JP2",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0001KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0014KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0019KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0020KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0024KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0045KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0058KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0066KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0069KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0080KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0092KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0154KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0189KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0263KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0271KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0296KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0313KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0328KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0362KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0374KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0387KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0424KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0438KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0445KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0456KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0500KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0529KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0552KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0606KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0611KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0627KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0668KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0674KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0699KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0736KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0748KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0755KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0788KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0796KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0821KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0827KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0835KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0844KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0869KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0887KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0890KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0893KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0908KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0975KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0977KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK0991KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1053KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1060KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1087KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1109KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1148KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1158KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1215KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1216KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1225KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1230KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1249KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1309KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1311KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1338KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1359KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1377KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1388KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1439KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1442KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1450KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1454KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1524KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1529KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1537KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1604KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1619KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1650KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1675KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1702KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1708KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1723KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1731KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1818KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1842KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1846KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1864KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1936KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1943KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1944KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1946KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1975KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK1977KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2035KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2053KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2059KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2062KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2067KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2090KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2099KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2103KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2127KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2138KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2146KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2182KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2207KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2268KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2276KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2283KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2299KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2336KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2337KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2341KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2427KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2465KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2474KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2475KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2511KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2523KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2534KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2556KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2565KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2572KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2642KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2659KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2662KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2677KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2679KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2697KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2702KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2756KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2766KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2807KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2846KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2897KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2901KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2949KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2965KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2980KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK2995KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK3005KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK3030KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK3041KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK3043KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK3052KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK3063KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK3068KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK3094KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK3109KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK3140KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK3150KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK3220KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK3229KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK3269KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK3294KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK3330KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK3354KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK3363KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK3377KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK3384KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK3424KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK3471KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK3531KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK3568KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK3569KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK3622KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK3664KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK3678KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK3705KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK3749KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK3755KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NK3761KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NL0051KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NL0108KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NL0152KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NL0174KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NL0207KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NL0215KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NL0217KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NL0221KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NL0250KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NL0276KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NL0401KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NL0409KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NL0440KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NL0459KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NL0470KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NL0518KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NL0529KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP0003KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP0014KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP0016KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP0094KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP0124KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP0174KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP0188KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP0189KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP0202KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP0239KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP0275KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP0321KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP0326KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP0332KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP0446KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP0501KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP0503KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP0549KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP0757KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP0902KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP0919KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP1033KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP1138KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP1221KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP1284KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP1321KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP1322KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP1323KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP1375KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP1406KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP1470KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP1476KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP1505KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP1521KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP1570KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP1658KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP1664KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP1665KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP1672KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP1729KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP1772KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP1861KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP1892KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP1944KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2013KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2056KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2222KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2236KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2241KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2253KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2260KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2278KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2292KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2293KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2306KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2309KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2374KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2381KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2395KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2405KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2406KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2413KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2420KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2436KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2437KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2450KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2462KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2477KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2484KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2498KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2519KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2529KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2567KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2575KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2585KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2598KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2619KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2625KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2626KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2642KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2644KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2651KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2662KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2664KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2671KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2683KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2691KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2713KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2726KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2737KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2756KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2757KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2758KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2770KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2772KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2782KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2787KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2798KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2818KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2886KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2893KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2954KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP2976KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3016KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3021KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3032KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3046KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3062KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3091KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3097KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3110KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3159KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3163KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3173KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3191KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3195KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3215KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3218KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3221KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3263KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3277KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3283KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3290KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3312KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3329KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3352KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3355KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3395KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3399KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3418KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3430KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3434KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3439KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3444KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3460KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3468KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3469KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3471KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3484KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3535KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3566KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3570KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3576KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3577KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3589KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3590KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3591KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3605KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3679KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3697KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3706KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3723KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3726KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3736KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3788KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3797KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3811KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3822KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3869KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3872KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3876KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "1999NP3884KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2000TM0009KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2001TM0006KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2001TM0015KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2001TM1034LB1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2003PM0010",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2003TM0001KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2004PM0021",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2004TM0002KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2005PM0034",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2005TM0013KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2005TM0024KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2005TM0031KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2005TM0067KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2005TM0102KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2005TM0109KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2005TM0133KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2005TM0155KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2005TM0172KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2005TM1009CN1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2005TM1010CN1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2006TM0038KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2006TM0047KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2007PM0016",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2007TM0009KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2007TM0021KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2007TM0022KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2007TM0039KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2007TM0072KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2007TM0085KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2007TM0107KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2007TM0108KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2007TM0133KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2007TM0157KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2007TM0192KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2007TM0198KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2007TM0201KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2007TM0241KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2007TM0253KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2007TM0258KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2007TM0259KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2008PM0024",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2008PM0031",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2008TM1004CN1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2008TM1005CN1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2009PM0010",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2009TM0004KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2009TM0015KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2010TM0034KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2010TM0041KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2010TM0072KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2010TM0075KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2010TM0083KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2010TM1003VN1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2011PM0035",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2011TM0013KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2011TM0020KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2011TM0022CO1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2011TM0026KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2011TM0036KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2011TM0037KR3",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2011TM0038KR4",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2011TM0044KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2012PM0005",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2012PM0079",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2012TM0001KR2",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2012TM0004KR4",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2012TM0008BD2",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2012TM0008BR5",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2012TM0008ID8",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2012TM0008IL2",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2012TM0008JP9",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2012TM0008KR16",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2012TM0008KR18",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2012TM0008PA1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2012TM0008TH2",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2012TM0008US2",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2012TM0008VE2",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2012TM0009KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2012TM0009KR26",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2012TM0009KR27",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2012TM0009KR7",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2012TM0010KR17",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2012TM0011KR3",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2012TM0011KR4",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2012TM0013KR3",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2012TM0014KR2",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2012TM0017KR2",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2012TM0018KR4",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2012TM0028KR3",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2012TM0034KR10",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2012TM0034KR4",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2012TM0035KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2012TM0046KR9",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2012TM0052KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2012TM0053KR6",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2012TM0053KR7",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2013TM0002KR2",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2013TM0002KR7",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2013TM0002KR8",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2013TM0009KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2013TM0011KR3",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2014TM0003KR6",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2014TM0005PK1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2014TM0005SG1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2015TM0001KR2",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2015TM0008JP1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2015TM0017CN3",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2015TM0017KR2",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2015TM0018KR2",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2015TM0023KR3",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2016TM0003BG1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2016TM0003PE2",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2016TM0003PH2",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2016TM0003SI1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2017TM0005CN1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2017TM0005JP1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2017TM0005KR2",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2017TM0008GB2",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2017TM0009KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2017TM0010US1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2017TM0012KR2",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2019TM0006KR4",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2019TM0006US1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2019TM0008KR1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2019TM0008KR7",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2019TM0009PH2",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2020PM0001",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2020PM0006",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2020PM0015",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2020PM0023",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2020TM0237GB1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2020TM0317US2",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2020TM0368CN2",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2020TM0463KR2",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2020TM0533CN2",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2020TM0537GB1",
+    "doc_count" : 2
+  },
+  {
+    "key" : "2020TM0591KR2",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0107C0000125",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0107C0000127",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0107C0000129",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0107C000021",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0107C00002100",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0107C0000214",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0107C0000230",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0107C0000245",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0107C0000251",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0107C0000274",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0107C0000275",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0107C0000281",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0107C000031",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0107C0000316",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0107C0000327",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0107C0000335",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0107C0000351",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0107C0000356",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0107C0000360",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0107C0000412",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0107C0000415",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0107C0000426",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0107C000043",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0107C0000439",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0107C000047",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0107C000048",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0107C000052",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0107C000053",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0108C0000127",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0108C0000128",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0108C0000136",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0108C000018",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0108C0000225",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0108C0000228",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0108C0000234",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0108C0000235",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0108C0000237",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0108C0000240",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0108C000027",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0108C0000321",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0108C0000329",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0108C0000337",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0108C0000363",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0108C000037",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0108C0000372",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0108C0000373",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0108C000042",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0108C0000723",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0108C0000726",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0108C0000745",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0108C0000764",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0108C0000836",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0108C0000850",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0108C0000855",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0108C0000861",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0108C0000870",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0109C000016",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0109C0000234",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0109C0000259",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0109C0000293",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0109C0000298",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0109C0000514",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0109C0000530",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0109C0000617",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0109C0000621",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0109C0000623",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0109C0000627",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0109C000064",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0109C0000644",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0109C00009109",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0109C00009114",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0109C00009124",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0109C00009130",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0109C00009134",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0109C00009142",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0109C00009155",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0109C0000920",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0109C0000927",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0109C0000929",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0109C0000940",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0109C0000969",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0109C0000972",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0109C0000977",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0109C0000986",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0109C0000988",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0109C0001345",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0109C0001378",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0109C0001380",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0109C0001382",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0109C0001384",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0109C0001386",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0110C0000214",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0110C0000236",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0110C0000266",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0110C000039",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0110C000058",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0110C0000610",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0110C0000623",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0110C0000624",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0110C0000633",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0110C0000637",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0110C0000743",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0110C0000748",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0110C0000766",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0110C0000776",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0110C0000935",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0110C0000937",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0110C0000960",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0110C0000962",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0110C0000966",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0110C00012103",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0110C00012109",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0110C0001236",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0110C0001268",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0110C0001273",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0110C0001280",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0110C0001283",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0110C0001289",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000157",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C00002101",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000226",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000230",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000234",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000253",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000262",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000263",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000264",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000269",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000275",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000278",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000325",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000330",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000338",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000350",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000395",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000439",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000456",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000466",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000527",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000535",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000538",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000542",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000543",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000544",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000610",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000613",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000617",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000618",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000625",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000628",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000631",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000662",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000665",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000722",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000748",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000754",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000827",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000835",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0000837",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C000089",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C000099",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0001130",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0001336",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0001341",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0001372",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0001455",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0001677",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0001688",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0001769",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0111C0001773",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C0000310",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C0000388",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C0000556",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C0000558",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C0000585",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C00006112",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C00006129",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C0000674",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C0000825",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C0000827",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C00009209",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C00009213",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C00009215",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C00009218",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C00009223",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C0000974",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C0000975",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C0000986",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C0000987",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C00011107",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C0001229",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C0001530",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C0001540",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C0001547",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C0001553",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C0001651",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C00017172",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C00017184",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C00017192",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C00017196",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C0001771",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C0001777",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C0001779",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C000196",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C0002070",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C0002083",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C00022155",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C00022161",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C00022166",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C00022170",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C00022172",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C00022191",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C00022197",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C00022221",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0112C00022226",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C0000245",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00003146",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00003147",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00003148",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C0000317",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00003174",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00003175",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00003192",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C0000320",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00003204",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00004112",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00004116",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00004124",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00004147",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00004169",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00004181",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C0000450",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C0000475",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C0000498",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00005106",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00005116",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00005134",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00005144",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00005158",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00005162",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00005187",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00005189",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00005193",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00005197",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00005200",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00005226",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00005235",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00005236",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00005239",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00005252",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00005254",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00005267",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00005288",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C0000598",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00006114",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00006139",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00006143",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00006146",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00006159",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00006160",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00006187",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C0000677",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C0000694",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00007111",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00007136",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00007156",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00007157",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00007193",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C0000728",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C0000760",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C0000766",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C0000776",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00008100",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00008136",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00008139",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00008154",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00008164",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00008177",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00008192",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00008209",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00008219",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00008226",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C0000825",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C0000831",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C0000835",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C0000847",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C000085",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C0000861",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C0000863",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C0000869",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C000087",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C0000872",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00009115",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00009132",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00009141",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00009148",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00009158",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C0000923",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C0000948",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C0000966",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C0000988",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C0001110",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00011104",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00011108",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00011109",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00011121",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00011129",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C0001114",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00011142",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00011153",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00011156",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00011158",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C00011165",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C0001130",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0201C0001197",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0202C0000212",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0202C0000213",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0202C0000219",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0202C000023",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0202C000096",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C000021",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C00002108",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C00002114",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C00002116",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C00002119",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C00002122",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C00002135",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C00002141",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C00002158",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C00002182",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C00002188",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C0000222",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C0000231",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C0000234",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C0000239",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C000024",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C0000249",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C000027",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C0000278",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C0000281",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C0000285",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C0000289",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C0000294",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C000044",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C0000522",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C0000524",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C000059",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C000082",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C000084",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C000091",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C0001019",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C0001028",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C000103",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C000104",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C0001116",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C0001117",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C0001137",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C0001138",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0203C000119",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0204C000041",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0204C0000413",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0204C000049",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0204C000052",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0204C0000520",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0204C0000548",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0204C0000559",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0204C000056",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0204C0000570",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0204C0000611",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0204C0000627",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0204C0000631",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0204C0000645",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0204C0000646",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0204C000071",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C0000121",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C0000134",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C0000137",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C000062",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C000113",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C000137",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C000138",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C000143",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C0001511",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C00015120",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C00015122",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C00015127",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C00015142",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C00015145",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C00015155",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C00015161",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C0001519",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C00015190",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C00015196",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C00015203",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C0001522",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C00015223",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C00015228",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C00015241",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C00015244",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C00015258",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C0001526",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C00015267",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C00015285",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C00015295",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C00015298",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C000153",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C00015305",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C0001531",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C00015362",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C00015394",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C00015419",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C0001543",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C0001554",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C0001569",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C0001590",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C0001594",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0205C0001599",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C000013",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C000022",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0000314",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C000035",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0000612",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0000616",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0000619",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0000624",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0000625",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0000626",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C000069",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0000720",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0000734",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0000735",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0000738",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0000762",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0000823",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0000829",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0000838",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0000845",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C000085",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0000851",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0000855",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0000856",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C000086",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0000874",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0000881",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00009100",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00009110",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00009123",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00009149",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00009151",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00009172",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00009206",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00009207",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0000942",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0000946",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0000969",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0000974",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0000992",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001018",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001031",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001045",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001058",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001085",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001089",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001094",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C000112",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001329",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C000138",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001416",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001421",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001431",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001432",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C000145",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001516",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001528",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001532",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001538",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001542",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001569",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001589",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001594",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00016107",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00016114",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00016126",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00016127",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001615",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00016154",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00016159",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00016166",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00016173",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00016186",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00016189",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00016191",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00016207",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00016213",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00016241",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001632",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001635",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001637",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001640",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001649",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001650",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001652",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001678",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001681",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00017103",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001712",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00017129",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00017141",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00017176",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00017187",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00017189",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00017191",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00017203",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00017220",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00017233",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00017273",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00017285",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00017297",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00017323",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00017342",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C00017354",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001744",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C000175",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001773",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001785",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001791",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001792",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001812",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C0001910",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C000193",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C000195",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C000202",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0206C000206",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C000021",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0000411",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0000421",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0000445",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C000053",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0000612",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0000625",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0000817",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C000085",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C000089",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C000104",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C00013106",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C00013112",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C00013126",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C00013152",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0001337",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0001340",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0001355",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0001357",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0001362",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C000141",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0001410",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0001614",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0001617",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0001655",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0001924",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0001935",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0001953",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C000197",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0001984",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C00020105",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C00020145",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0002034",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0002045",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0002057",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0002065",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0002073",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0002080",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0002086",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0002096",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0002099",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C000213",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0002213",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0002214",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0002217",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0002223",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0002246",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0002247",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0002249",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0002255",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C000226",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C0002262",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C000228",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0207C000231",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C00001101",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0000127",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0000153",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0000157",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0000160",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C000031",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0000411",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C00004112",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C00004125",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C00004138",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C00004141",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C00004147",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C00004148",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0000416",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C00004175",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C00004179",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C00004197",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C00004206",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C00004225",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C00004245",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0000431",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0000442",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0000474",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0000478",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0000519",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0000521",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0000523",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0000534",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C000054",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0000540",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0000541",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0000558",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C00006100",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C00006101",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0000611",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C00006114",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C00006116",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0000616",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0000624",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0000666",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0000670",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0000693",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0000710",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0000717",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0000730",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0000743",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C000076",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0001112",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C000112",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C000116",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C000118",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C000121",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0001211",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C000122",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0001224",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0001227",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0001230",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C000151",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0001623",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C000164",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0001655",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0001667",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0001669",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0001673",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0001677",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C000172",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0001721",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0001731",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C00018101",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C00018108",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C00018110",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C00018119",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0001812",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C00018136",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0001820",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0001849",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0001861",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0001874",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0001910",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C000193",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0001942",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0001966",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0001970",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0002247",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0208C0002249",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C000011",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0000124",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C000014",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0000140",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0000148",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C000015",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0000151",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C000018",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C000032",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C000034",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C000045",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0000537",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0000566",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0000592",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0000820",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0000853",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0000854",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C000086",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0000870",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C000088",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0000887",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0000913",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C000109",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0001115",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C000118",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0001232",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0001245",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0001257",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0001315",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0001317",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C000137",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00014140",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00014142",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00014154",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00014161",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00014175",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00014179",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00014210",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00014219",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0001446",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0001467",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0001469",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0001474",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0001485",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0001520",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0001573",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C000166",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0001712",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C000185",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C000195",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C000197",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C000208",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0002133",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0002210",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C000225",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0002250",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00023172",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00023180",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00023194",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00023211",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00023216",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00023217",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00023218",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0002324",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00023247",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00023259",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00023266",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00023270",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00023326",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00023337",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00023352",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00023365",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00023371",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00023372",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00023384",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00023386",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00023387",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00023396",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00023397",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00023404",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00023408",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0002342",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0002361",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0002368",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0002372",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0002387",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00024110",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00024111",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0002424",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0002425",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C000244",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C000245",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0002475",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0002483",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C000252",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0002544",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C000263",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C000272",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C000275",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0002811",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0002817",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0002834",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0002849",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0002868",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C000289",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0002913",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0003229",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0003239",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0003324",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0003337",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0003344",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0003346",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0003362",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0003366",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0003373",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0003381",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0003389",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0003418",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0003430",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0003455",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0003466",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0003467",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0003480",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0003487",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0003619",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0003621",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C000363",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0003645",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0003652",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0003668",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0003687",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00038100",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00038105",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00038112",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00038113",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C00038119",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0003817",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0003827",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0003832",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0003844",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0003855",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0003867",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C000387",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0209C0003871",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C0000130",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C000014",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C000031",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C0000414",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C0000416",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C0000519",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C0000534",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C0000542",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C000058",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C0000613",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C0000617",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C0000634",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C0000640",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C0000643",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C0000650",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C0000663",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C0000667",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C0000669",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C0000672",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C0000675",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C000069",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C00007110",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C00007128",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C00007135",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C00007161",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C00007173",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C0000753",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C0000758",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C0000764",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C0000770",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C0000813",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C0000822",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C0000864",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C0000869",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C0001611",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C000163",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C00021117",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C00021166",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C0002117",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C00021174",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C00021179",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C00021181",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C00021196",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C00021205",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C00021216",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C00021218",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C00021236",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C00021239",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C00021264",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C00021281",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C0002170",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C0002185",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C0002190",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C0002224",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0210C0002253",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C000011",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C000033",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C000036",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C0000416",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C000042",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C000051",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C000052",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C0000530",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C0000533",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C0000535",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C0000545",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C0000613",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C0000619",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C0000642",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C000065",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C000072",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C00008111",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C00008118",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C00008123",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C00008137",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C00008144",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C0000823",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C0000831",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C000084",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C0000851",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C0000853",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C0000911",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C000099",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C000113",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C000131",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C0001421",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C000172",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C0001912",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C0001920",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C0001930",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C0001941",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C0001949",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C000211",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C000217",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C0002210",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C000225",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C0002316",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C0002318",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C000232",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C0002414",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C000251",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C000255",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C000261",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C0002613",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C0002614",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C0002624",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C0002710",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C0002743",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C000276",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C0002810",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0211C000288",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0212C0000120",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0212C0000128",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0212C000013",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0212C0000133",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0212C0000316",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0212C0000554",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0212C0001313",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0212C0001413",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0304C0001817",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0304C0001821",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0304C0001826",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0304C0001837",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0304C0001838",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0304C000185",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0305C0000253",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0305C0000271",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0305C0000310",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0305C0000335",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0305C0000337",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0305C0000338",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0305C0000355",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0305C000036",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0305C0000377",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0305C0000380",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0305C0000428",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0305C0000513",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0305C0000514",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0305C000134",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0305C000202",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0305C0002413",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0305C0002414",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0305C000242",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0305C0002441",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0305C0002495",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0305C0002515",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0305C0002534",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0305C0002720",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0305C000295",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0305C0003012",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0305C000306",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0305C000309",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0305C000331",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0305C000332",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0306C0000210",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0306C0000219",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0306C0000225",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0306C0000417",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0306C0000423",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0306C0000425",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0306C0000426",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0306C000045",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0306C000081",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0306C000086",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0306C00018103",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0306C00018105",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0306C00018106",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0306C00018114",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0306C00018136",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0306C0001827",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0306C0001830",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0306C0001831",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0306C0001837",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0306C0001838",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0306C0001842",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0306C0001846",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0306C0001898",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0306C0002032",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0306C0002038",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0307C000011",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0307C0000112",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0307C0000315",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0307C0000328",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0307C0000413",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0307C0000426",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0307C000043",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0307C0000437",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0307C0000485",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0307C0000490",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0307C000072",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0307C0000749",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0307C0000752",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0307C0000759",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0307C0000780",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0307C000093",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0307C000096",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0307C000102",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0307C0001713",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0307C000179",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0307C0001911",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0307C0001914",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0307C000196",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0307C000198",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0307C000201",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0307C0002035",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0307C000205",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0307C00021102",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0307C0002128",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0307C0002150",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0307C0002162",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0307C0002173",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C000011",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C0000156",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C0000163",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C000019",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C0000265",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C0000268",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C0000286",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C000071",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C0000711",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C0000715",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C0000721",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C0000726",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C0000730",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C0000737",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C0000742",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C000079",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C0000812",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C0000813",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C000102",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C000104",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C0001118",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C0001125",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C0001126",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C000113",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C0001133",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C0001312",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C0001314",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C000132",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C0001320",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C00015100",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C00015103",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C00015108",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C00015119",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C00015123",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C00015155",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C0001537",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C0001542",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C0001556",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C0001561",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C0001611",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C0001630",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0308C0001632",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0309C0000116",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0309C0000227",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0309C0000244",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0309C0000249",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0309C000044",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0309C0000516",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0309C000053",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0309C000164",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0309C000186",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0310C0000222",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0310C0001139",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0311C0000589",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0311C0001942",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0312C0002135",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0312C0002322",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0312C0002328",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0402C00001101",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0402C000028",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0402C0000642",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0403C000071",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0403C000083",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0403C000086",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0403C000089",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0403C000123",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0403C000125",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0403C000143",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0403C0001565",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0403C0002116",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0403C0002118",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0403C0002123",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0405C0000120",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0405C000013",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0405C000021",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0405C000024",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0405C0000281",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0406C0000111",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0406C0000113",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0406C0000229",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0406C0000242",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0406C000084",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0406C000086",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0406C000092",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0406C0001029",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0406C0001218",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0406C0001425",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0406C000144",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0406C000148",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0406C0001511",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0406C0001520",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0406C0001524",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0406C0001526",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0409C000064",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0410C0000219",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0410C000023",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0410C000027",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0410C0000743",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0410C0000744",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0410C0001012",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0410C000102",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0410C0001332",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0411C000035",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0411C0000810",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0411C0001223",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0411C000125",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0411C000144",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0412C0001010",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0412C0001021",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0412C0001111",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0412C0001414",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0412C0001420",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0412C0001715",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0412C0001732",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0412C000178",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0412C000189",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0412C0002023",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0412C0002113",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0412C000226",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0412C0002315",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0412C000236",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0412C000242",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0412C0002616",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0412C0002649",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0412C0002650",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0412C0002654",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0412C000288",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0412C000304",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0412C0003238",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0412C0003251",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0412C0003259",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0412C0003260",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0412C000335",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0412C000355",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0412C0003739",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0412C0003757",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0412C000377",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0412C000391",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0412C0003914",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0412C0003932",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0412C0003933",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0412C0004275",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0501C000022",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0501C0000325",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0501C0000333",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0501C0000346",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0501C000037",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0501C000038",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0501C000094",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0502C0001010",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0502C00010127",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0502C00010171",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0502C0001029",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0502C000104",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0502C0001042",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0502C0001076",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0502C000108",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0502C0001080",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0502C0001096",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0502C0001098",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0503C0000316",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0504C0001017",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0504C000131",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0504C000135",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0504C000136",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0504C000188",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0504C0002011",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0504C0002025",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0504C0002035",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0504C0002041",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0504C000234",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0504C0002418",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0505C000182",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0505C0001830",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0505C0001861",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0507C0000418",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0807C0000240",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0807C0000253",
+    "doc_count" : 2
+  },
+  {
+    "key" : "PAT0807C0000420",
+    "doc_count" : 2
+  },
+  {
+    "key" : "이행2",
+    "doc_count" : 2
+  },
+  {
+    "key" : "이행23",
+    "doc_count" : 2
+  },
+  {
+    "key" : "이행28",
+    "doc_count" : 2
+  },
+  {
+    "key" : "이행3419",
+    "doc_count" : 2
+  },
+  {
+    "key" : "이행3439",
+    "doc_count" : 2
+  },
+  {
+    "key" : "이행3443",
+    "doc_count" : 2
+  },
+  {
+    "key" : "이행3446",
+    "doc_count" : 2
+  },
+  {
+    "key" : "이행3507",
+    "doc_count" : 2
+  },
+  {
+    "key" : "이행3514",
+    "doc_count" : 2
+  },
+  {
+    "key" : "이행3521",
+    "doc_count" : 2
+  },
+  {
+    "key" : "이행3539",
+    "doc_count" : 2
+  },
+  {
+    "key" : "이행3552",
+    "doc_count" : 2
+  },
+  {
+    "key" : "이행3553",
+    "doc_count" : 2
+  },
+  {
+    "key" : "이행3575",
+    "doc_count" : 2
+  },
+  {
+    "key" : "이행3624",
+    "doc_count" : 2
+  },
+  {
+    "key" : "이행3634",
+    "doc_count" : 2
+  },
+  {
+    "key" : "이행3639",
+    "doc_count" : 2
+  },
+  {
+    "key" : "이행3650",
+    "doc_count" : 2
+  },
+  {
+    "key" : "이행3667",
+    "doc_count" : 2
+  },
+  {
+    "key" : "이행3681",
+    "doc_count" : 2
+  },
+  {
+    "key" : "이행44",
+    "doc_count" : 2
+  },
+  {
+    "key" : "이행47",
+    "doc_count" : 2
+  },
+  {
+    "key" : "이행49",
+    "doc_count" : 2
+  },
+  {
+    "key" : "이행52",
+    "doc_count" : 2
+  },
+  {
+    "key" : "이행64",
+    "doc_count" : 2
+  },
+  {
+    "key" : "이행76",
+    "doc_count" : 2
+  }
+]
